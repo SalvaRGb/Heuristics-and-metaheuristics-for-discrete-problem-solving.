@@ -18,3 +18,11 @@ The TSP is an NP-hard problem, which means that there is no known efficient algo
 4. **Metaheuristics:** More advanced methods like simulated annealing, tabu search, and genetic algorithms, which explore the solution space for high-quality solutions.
 
 The Traveling Salesman Problem has applications in various real-life scenarios such as logistics, route planning, circuit design, DNA sequencing, and more. Due to its significance and complexity, the TSP has been extensively studied in combinatorial optimization and algorithm theory.
+
+In this repository you will find a notebook with all the details of how to develop python functions using some heuristics and metaheuristics techniques to “solve” the TSP problem and an html with an interactive graph representing the complexity of this problem, here are the solutions found during the exploration of these methodologies (including the construction of the visualitazions in matplotlib and htm!): 
+
+1. Local Search: Random search algorithms are heuristic methods that utilize randomness to explore the solution space in search of acceptable or even optimal solutions for a given problem. Unlike deterministic algorithms that follow a predefined strategy, random search algorithms introduce random elements into their search process to try to avoid getting stuck in local minima and explore different regions of the solution space.
+
+Random search algorithms do not guarantee finding the best solution in every run, as their performance can vary depending on random factors and the problem's structure. However, they can be effective in complex problems where exact methods are inefficient or impractical due to the large number of possible solutions.
+
+  . [!](multimedia/Local_search_anim.gif)
