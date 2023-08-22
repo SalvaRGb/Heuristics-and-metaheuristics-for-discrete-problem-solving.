@@ -25,4 +25,4 @@ In this repository you will find a notebook with all the details of how to devel
 
 Random search algorithms do not guarantee finding the best solution in every run, as their performance can vary depending on random factors and the problem's structure. However, they can be effective in complex problems where exact methods are inefficient or impractical due to the large number of possible solutions.
 
-  . [!](multimedia/Local_search_anim.gif)
+  . ![](multimedia/Local_search_anim.gif)
