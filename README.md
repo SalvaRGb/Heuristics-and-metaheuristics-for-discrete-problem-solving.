@@ -21,7 +21,7 @@ The Traveling Salesman Problem has applications in various real-life scenarios s
 
 In this repository you will find a notebook with all the details on how to develop python functions using some heuristics and metaheuristics techniques to “solve” the TSP problem and an html with an interactive graph representing the complexity of this problem.
 
-Here are the solutions found during the exploration of these methodologies (including the construction of the visualitazions in matplotlib and htm!): 
+Here are the solutions found during the exploration of these methodologies (including the construction of the visualitazions in matplotlib and htm, here´s a link to the interactive notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Heuristics-and-metaheuristics-for-discrete-problem-solving./master?labpath=TSP_process_resolution.ipynb)): 
 
 ### Random Search:
 Random search algorithms are heuristic methods that utilize randomness to explore the solution space in search of acceptable or even optimal solutions for a given problem. Unlike deterministic algorithms that follow a predefined strategy, random search algorithms introduce random elements into their search process to try to avoid getting stuck in local minima and explore different regions of the solution space. Random search algorithms do not guarantee finding the best solution in every run, as their performance can vary depending on random factors and the problem's structure. However, they can be effective in complex problems where exact methods are inefficient or impractical due to the large number of possible solutions.
